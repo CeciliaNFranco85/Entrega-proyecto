@@ -1,0 +1,135 @@
+
+
+.col-sm-3{
+    width: 100% ;
+   background-image: url("acuarela.gif");
+}
+
+.col-sm-9{
+    background-color:#d7d7d7 ;
+}
+
+img {
+    margin-top: 15px;
+    margin-left: 15px;
+    max-width: 100%;
+    width: 200px;
+    height: 300px;
+    margin-bottom: 15px;
+    border: 5px solid black;
+}
+
+h4 {
+    max-width: 100%;
+    font-family: 'Playfair Display', serif;
+    
+   
+}
+
+  
+h1{
+  padding-top:  20px ;
+  max-width: 100%;
+  font-family: 'Playfair Display', serif;
+ 
+}
+
+body{
+  
+    max-width: 100%;
+    font-family:'Roboto', sans-serif;
+}
+
+
+  
+h5{
+    text-decoration: underline;
+}
+h6 {  
+    max-width: 100%;
+    width: 30%;
+    float: right;
+    font-style: comic;
+    border: solid rgb(245, 245, 245);
+    background-color: #f0d6dd ;}
+  
+ 
+button {
+  background-color:#f0d6dd ;
+  border: none;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 16px;
+  margin: 2px 2px;
+  cursor: pointer;
+}
+
+.esconder{
+    display: none;
+    
+}
+
+.esconder1{
+    display: none;
+}
+
+
+.aparecer{
+    display:block;
+}
+.aparecer1{
+    display: block;
+}
+
+.datose{
+    display: none;
+}
+
+.datoaparecido{
+     display: block;
+}
+
+.redesf{
+    display: none;
+}
+
+.redaparecida{
+    display: block;
+}
+
+#demo{
+  color: black;
+}
+
+
+.procedimientosE{
+  background-color: rgb(215, 212, 212);
+  border: none;
+  color: rgb(0, 0, 0);
+  text-align: center;
+  text-decoration: underline;
+  display: inline-block;
+  font-size: 10px;
+  cursor: pointer;
+}
+
+.contacto.personal{
+background-color:#f0d6dd ;
+border: none;
+color: rgb(0, 0, 0);
+text-align: center;
+text-decoration: underline;
+display: inline-block;
+font-size: 16px;
+margin: 2px 2px;
+cursor: pointer;
+}
+
+.direccion{
+    display: inline-block;
+    background-color: #d7d7d7;
+    text-decoration: none;
+}
+
